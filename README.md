@@ -1,1 +1,5 @@
-docker 개인 스터디
+rest api
+Spring boot
+JPA
+mysql
+docker 
